@@ -1,0 +1,41 @@
+/*h1 {
+    background: chocolate;
+}*/
+.main_block {
+    background: rgb(141, 207, 74);
+    /* margin-left: 0%;
+    margin-top: 0;
+    border-top: 0;
+    padding-top: 0; */
+    display: flex;
+}
+
+.text {
+    background: coral;
+}
+
+.mainImage {
+    /* position: absolute; */
+    width: 200px;
+    /* background-color: rgb(189, 201, 25); */
+    /* padding: 50px; */
+    /* border-left: 50px; */
+    /* margin-left: 0%; 
+    margin-right: 20%;
+    margin-bottom: 70px; */
+}
+
+.description {
+    display: flex;
+    margin-left: 30px;
+    /* margin-right: 20px;
+    margin-top: 0px;
+    border-top: 0px;
+    padding-top: 0px; */
+}
+
+.paragraph {
+    display: flex;
+    margin-left: -210px;
+    margin-top: 50px;
+}
